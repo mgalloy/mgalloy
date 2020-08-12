@@ -1,7 +1,6 @@
 #### About me
 
-
-![Michael Galloy][avatar] I'm a software developer focusing on high-performance computing and visualization in scientific programming. I work mostly in IDL, but occasionally use C, CUDA, Python, bash scripting, etc.
+I'm a software developer focusing on high-performance computing and visualization in scientific programming. I work mostly in IDL, but occasionally use C, CUDA, Python, bash scripting, etc.
 
 I am currently a Software Engineer/Programmer at NCAR. I work on data from the Mauna Loa Solar Observatory (MLSO) in the High Altitude Onservatory (HAO).
 
@@ -24,10 +23,9 @@ For more details about me, see my [CV][cv] and [resume].
 
 #### Contact
 
-> mgalloy at gmail dot com
+> mgalloy at gmail dot com<br/>
 > @mgalloy
 
-[avatar]: http://michaelgalloy.com/wp-content/uploads/2012/05/mgalloy.jpg
 [modernidl]: http://modernidl.idldev.com "Modern IDL"
 [IDLdoc]: http://github.com/mgalloy/idldoc "IDLdoc"
 [mgunit]: http://github.com/mgalloy/mgunit "mgunit"
