@@ -21,11 +21,6 @@ A few years ago, I wrote a book, [Modern IDL][modernidl]. It covers beginning th
 For more details about me, see my [CV][cv] and [resume].
 
 
-#### Contact
-
-> mgalloy at gmail dot com<br/>
-> @mgalloy
-
 [modernidl]: http://modernidl.idldev.com "Modern IDL"
 [IDLdoc]: http://github.com/mgalloy/idldoc "IDLdoc"
 [mgunit]: http://github.com/mgalloy/mgunit "mgunit"
